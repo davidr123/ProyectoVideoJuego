@@ -22,4 +22,7 @@ public class GameController : MonoBehaviour
     public void CargarIntro(){ 
           SceneManager.LoadScene("Intro");
     }
+    public void CargarPrimerJuego(){ 
+          SceneManager.LoadScene("PrimerJuego");
+    }
 }
