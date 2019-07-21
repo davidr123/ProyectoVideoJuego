@@ -1,0 +1,941 @@
+fileFormatVersion: 2
+guid: d6ff95f54fc8af841969929cbdce6b1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 80180794843292514
+    second: pantalla2_0
+  - first:
+      213: -3575210672535237497
+    second: pantalla2_1
+  - first:
+      213: 4582479611992428636
+    second: pantalla2_2
+  - first:
+      213: -5763584083086137017
+    second: pantalla2_3
+  - first:
+      213: 2328612736943950918
+    second: pantalla2_4
+  - first:
+      213: 3887420273853912911
+    second: pantalla2_5
+  - first:
+      213: 4857156583977649268
+    second: pantalla2_6
+  - first:
+      213: -5638755649296582600
+    second: pantalla2_7
+  - first:
+      213: -3128281633669558355
+    second: pantalla2_8
+  - first:
+      213: 1956760518181064729
+    second: pantalla2_9
+  - first:
+      213: 8037414961759047480
+    second: pantalla2_10
+  - first:
+      213: 8570855540898259011
+    second: pantalla2_11
+  - first:
+      213: 5137571710871407393
+    second: pantalla2_12
+  - first:
+      213: 585461519789142957
+    second: pantalla2_13
+  - first:
+      213: 717305753636567871
+    second: pantalla2_14
+  - first:
+      213: 4025453428314540042
+    second: pantalla2_15
+  - first:
+      213: 7729015076114109026
+    second: pantalla2_16
+  - first:
+      213: 4389344133227518905
+    second: pantalla2_17
+  - first:
+      213: -7764206207460727008
+    second: pantalla2_18
+  - first:
+      213: 1390055659087855561
+    second: pantalla2_19
+  - first:
+      213: 8163943272104718363
+    second: pantalla2_20
+  - first:
+      213: 8188575404059365206
+    second: pantalla2_21
+  - first:
+      213: -1963143073293584226
+    second: pantalla2_22
+  - first:
+      213: -1575307011051076479
+    second: pantalla2_23
+  - first:
+      213: 2200780134912820083
+    second: pantalla2_24
+  - first:
+      213: 7196868792181965876
+    second: pantalla2_25
+  - first:
+      213: 8273474111750593103
+    second: pantalla2_26
+  - first:
+      213: 350169212191153328
+    second: pantalla2_27
+  - first:
+      213: -2433121567263707914
+    second: pantalla2_28
+  - first:
+      213: -6707605789161820766
+    second: pantalla2_29
+  - first:
+      213: -329623295957105995
+    second: pantalla2_30
+  - first:
+      213: -6184320270645247261
+    second: pantalla2_31
+  - first:
+      213: 8356783261863162440
+    second: pantalla2_32
+  - first:
+      213: -530745341038915738
+    second: pantalla2_33
+  - first:
+      213: -4428819958726792024
+    second: pantalla2_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pantalla2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 693
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30b25d3b73aa6f458a0bb9473bc739d
+      internalID: 80180794843292514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 693
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c28277418b8f4d9791609aec635fa
+      internalID: -3575210672535237497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 693
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f6098f382019a46aed52e99da40534
+      internalID: 4582479611992428636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 693
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65145fdbfab4c84fb1b16ea2241e125
+      internalID: -5763584083086137017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_4
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 693
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6430e4e6f1fe4942a0d8526d583ca42
+      internalID: 2328612736943950918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 578
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d81ba5de5a36e45864a3d98ce58ef3
+      internalID: 3887420273853912911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 578
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad78a22d636d2184d8ebe1a402d1e8b0
+      internalID: 4857156583977649268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_7
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 578
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a184e862c16c174eb20f516278c4550
+      internalID: -5638755649296582600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_8
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 578
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0c2e54f1d2b3341901f3609cacd1ad
+      internalID: -3128281633669558355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_9
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 578
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ab4fab0aee92940942a87769405709
+      internalID: 1956760518181064729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 463
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e843ef905ee61f64cb16a83f6845adbe
+      internalID: 8037414961759047480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 463
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9c8cd09d56531479886ffede729123
+      internalID: 8570855540898259011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 463
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46c33436202e404bb83c5d47d93e18a
+      internalID: 5137571710871407393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_13
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 463
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7942e0046d3b0a5479964f2669f29135
+      internalID: 585461519789142957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_14
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 463
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb0e5597577ece429b49656541548de
+      internalID: 717305753636567871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d66c3770a473f4c8abdeb833bb7e2d
+      internalID: 4025453428314540042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 348
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd063f314aa38d74ab80512cf04ea836
+      internalID: 7729015076114109026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_17
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 348
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5618690d22618a64f8e88f7dd5b247f9
+      internalID: 4389344133227518905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_18
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 348
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fb26a9622b33b498c3339f24d7d1aa
+      internalID: -7764206207460727008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_19
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 348
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f481f765859fc2469441cd7bfaa5225
+      internalID: 1390055659087855561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 233
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce40aa81db39564b91bbaa652992349
+      internalID: 8163943272104718363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 233
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b85af1f52e9da84fb7e94584753733a
+      internalID: 8188575404059365206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_22
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 233
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ab2caf33cfb5b469c46e71bd1cbdfd
+      internalID: -1963143073293584226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_23
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 233
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e020662936d900b4ea664306a9b9d5fe
+      internalID: -1575307011051076479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_24
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 233
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beca5d2d694be5947b1feb295fafc4c0
+      internalID: 2200780134912820083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 118
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc4bc5c829753a4292a37b6b7d991fd
+      internalID: 7196868792181965876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_26
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 118
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98fa1435c4a2b344881c3b8269fcc41
+      internalID: 8273474111750593103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_27
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 118
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dc237a0d5f1af4a9566f6888158f43
+      internalID: 350169212191153328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_28
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 118
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260b14da4b30bb4429c42e7eed17d7f1
+      internalID: -2433121567263707914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_29
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 118
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8542660e73b39b448f947252a28c297
+      internalID: -6707605789161820766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2addac7115fde7f45b2c2063229e69e0
+      internalID: -329623295957105995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 3
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb6f240f4a04c746b20c4a3bc5536cf
+      internalID: -6184320270645247261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_32
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 3
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d65cabc0f3c3f41bb6290edd7db5e6
+      internalID: 8356783261863162440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_33
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a95d1c93518eef4785b5bf30d246d10
+      internalID: -530745341038915738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pantalla2_34
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 3
+        width: 300
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2316a39a4084de4f96875b06a665f80
+      internalID: -4428819958726792024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b4fba9b8bc4ba1843a074604f23c519f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
