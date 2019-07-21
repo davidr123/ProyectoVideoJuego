@@ -288,6 +288,7 @@ GameObject:
   m_Component:
   - component: {fileID: 431733914}
   - component: {fileID: 431733913}
+  - component: {fileID: 431733915}
   m_Layer: 0
   m_Name: Nube-01 (3)
   m_TagString: Untagged
@@ -357,6 +358,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &431733915
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 431733912}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 60065de3f3518444586e2a3caf283083, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &438334656
 GameObject:
   m_ObjectHideFlags: 0
@@ -881,6 +901,7 @@ GameObject:
   m_Component:
   - component: {fileID: 800159206}
   - component: {fileID: 800159205}
+  - component: {fileID: 800159207}
   m_Layer: 0
   m_Name: Nube-01 (5)
   m_TagString: Untagged
@@ -950,6 +971,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &800159207
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 800159204}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 43bde2025dc57408780c4182a48bd2cb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &835295509
 GameObject:
   m_ObjectHideFlags: 0
@@ -960,6 +1000,7 @@ GameObject:
   m_Component:
   - component: {fileID: 835295511}
   - component: {fileID: 835295510}
+  - component: {fileID: 835295512}
   m_Layer: 0
   m_Name: Nube-01
   m_TagString: Untagged
@@ -1029,6 +1070,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &835295512
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 835295509}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e92b17a5108e34df39141f019e2ba8d4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &842302562
 GameObject:
   m_ObjectHideFlags: 0
@@ -1118,6 +1178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 989720767}
   - component: {fileID: 989720766}
+  - component: {fileID: 989720768}
   m_Layer: 0
   m_Name: Nube-01 (2)
   m_TagString: Untagged
@@ -1187,6 +1248,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &989720768
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 989720765}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b0e827454570845f5a8ec3e61d037487, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1031605349
 GameObject:
   m_ObjectHideFlags: 0
@@ -1498,6 +1578,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1168898991}
   - component: {fileID: 1168898990}
+  - component: {fileID: 1168898992}
   m_Layer: 0
   m_Name: Nube-01 (4)
   m_TagString: Untagged
@@ -1567,6 +1648,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1168898992
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1168898989}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5d1b739cbba98487f8f70317c95c5090, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1228400972
 GameObject:
   m_ObjectHideFlags: 0
@@ -1739,6 +1839,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1280436416}
   - component: {fileID: 1280436415}
+  - component: {fileID: 1280436417}
   m_Layer: 0
   m_Name: Nube-01 (1)
   m_TagString: Untagged
@@ -1803,11 +1904,30 @@ Transform:
   m_GameObject: {fileID: 1280436414}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.4, y: 2.38, z: 0}
-  m_LocalScale: {x: 0.176292, y: 0.176292, z: 0.176292}
+  m_LocalScale: {x: 0.15037708, y: 0.15037708, z: 0.15037708}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1280436417
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1280436414}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 634c8ed87d4a449d99875ccaebe8fad8, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1290854491
 GameObject:
   m_ObjectHideFlags: 0
