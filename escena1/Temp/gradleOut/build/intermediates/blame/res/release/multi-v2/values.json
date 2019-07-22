@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/imac/UNITY/Proyecto_videojuegos/ProyectoVideoJuego/escena1/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/imac/UNITY/Proyecto_videojuegos/ProyectoVideoJuego/escena1/Temp/gradleOut/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "43",
+                        "endOffsets": "94"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "/Users/imac/UNITY/Proyecto_videojuegos/ProyectoVideoJuego/escena1/Temp/gradleOut/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "101,201,339",
+                        "endLines": "4,7,11",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "196,334,561"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/JuegoTornillo.unity
     guid: 43a8b8bc7c8d741eea551ca96513a912
+  - enabled: 1
+    path: Assets/Scenes/SiAciertaTornillo.unity
+    guid: ec9da00a11e30435cb0b22a52d30f5e6
+  - enabled: 1
+    path: Assets/Scenes/SiFallaTornillo.unity
+    guid: 111823b6177174eb7835835615628c89
   m_configObjects: {}

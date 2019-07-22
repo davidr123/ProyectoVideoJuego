@@ -10,7 +10,7 @@ public class GameController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        VideoPlayer.loopPointReached += EndReached;
+        //VideoPlayer.loopPointReached += EndReached;
     }
 
     // Update is called once per frame
@@ -25,7 +25,7 @@ public class GameController : MonoBehaviour
           SceneManager.LoadScene("Intro");
     }
     public void CargarPrimerJuego(){ 
-          SceneManager.LoadScene("PrimerJuego");
+          SceneManager.LoadScene("JuegoTornillo");
     }
     void EndReached(UnityEngine.Video.VideoPlayer vp)
       {
