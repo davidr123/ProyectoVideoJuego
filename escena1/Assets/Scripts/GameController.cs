@@ -25,7 +25,7 @@ public class GameController : MonoBehaviour
           SceneManager.LoadScene("Intro");
     }
     public void CargarPrimerJuego(){ 
-          SceneManager.LoadScene("JuegoTornillo");
+          SceneManager.LoadScene("PrimerJuego");
     }
     void EndReached(UnityEngine.Video.VideoPlayer vp)
       {
