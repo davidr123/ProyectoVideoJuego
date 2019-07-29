@@ -27,8 +27,14 @@ EditorBuildSettings:
     path: Assets/Scenes/SiFallaTornillo.unity
     guid: 111823b6177174eb7835835615628c89
   - enabled: 1
+    path: Assets/Scenes/SiAciertaFireworks.unity
+    guid: ee2ec5207e47a4649a1ecfc27668505e
+  - enabled: 1
     path: Assets/Scenes/FireWorks.unity
     guid: 5a6547c7455444aeeb250583bc6bb1bc
+  - enabled: 1
+    path: Assets/Scenes/SiFallaFireworks.unity
+    guid: 2e01a7d319cd54b4682bcfd9c64c1371
   - enabled: 1
     path: Assets/Scenes/Niveles.unity
     guid: 1a7b40dbd17a747c0890316dbd26c9a8

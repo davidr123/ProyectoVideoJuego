@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 public class ObjetoCaja : MonoBehaviour {
     public float moveSpeed;
     public float offset = 0.05f;
@@ -18,6 +19,7 @@ public class ObjetoCaja : MonoBehaviour {
             if (following)
             {
                 following = false;
+                SceneManager.LoadScene("SiAciertaFireworks");
             }
             else
             {
