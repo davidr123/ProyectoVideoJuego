@@ -30,6 +30,9 @@ public class GameController : MonoBehaviour
     public void CargarSegundoJuego(){ 
           SceneManager.LoadScene("FireWorks");
     }
+    public void CargarNivelesJuego(){ 
+          SceneManager.LoadScene("Niveles");
+    }
     void EndReached(UnityEngine.Video.VideoPlayer vp)
       {
           UnityEngine.SceneManagement.SceneManager.LoadScene ("JuegoTornillo");

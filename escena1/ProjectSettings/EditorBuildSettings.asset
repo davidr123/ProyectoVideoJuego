@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: 
-    guid: 2cda990e2423bbf4892e6590ba056729
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Intro.unity
     guid: cae6cb0056449dc4884f1dfb41af8975
@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SiFallaTornillo.unity
     guid: 111823b6177174eb7835835615628c89
+  - enabled: 1
+    path: Assets/Scenes/FireWorks.unity
+    guid: 5a6547c7455444aeeb250583bc6bb1bc
+  - enabled: 1
+    path: Assets/Scenes/Niveles.unity
+    guid: 1a7b40dbd17a747c0890316dbd26c9a8
   m_configObjects: {}
