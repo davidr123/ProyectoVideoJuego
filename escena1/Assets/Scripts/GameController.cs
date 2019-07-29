@@ -28,7 +28,7 @@ public class GameController : MonoBehaviour
           SceneManager.LoadScene("PrimerJuego");
     }
     public void CargarSegundoJuego(){ 
-          SceneManager.LoadScene("FireWorks");
+          SceneManager.LoadScene("IntroFireworks");
     }
     public void CargarNivelesJuego(){ 
           SceneManager.LoadScene("Niveles");
