@@ -10,7 +10,7 @@ public class GameController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //VideoPlayer.loopPointReached += EndReached;
+        VideoPlayer.loopPointReached += EndReached;
     }
 
     // Update is called once per frame

@@ -17,14 +17,14 @@ public class ControladorJuegoTornillo : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(TornilloEstrella.locked)
+        /* if(TornilloEstrella.locked)
         {
             SceneManager.LoadScene("SiAciertaTornillo");
         }
         else{
             
             SceneManager.LoadScene("SiFallaTornillo");
-        }
+        }*/
     }
 
 }
