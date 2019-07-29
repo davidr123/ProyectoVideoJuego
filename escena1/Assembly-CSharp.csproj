@@ -66,8 +66,10 @@
     <Compile Include="Assets\Scripts\ControladorJuegoTornillo.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\ObjetoCaja.cs" />
+    <Compile Include="Assets\Scripts\Slot.cs" />
     <Compile Include="Assets\Scripts\TornilloEstrella.cs" />
     <Compile Include="Assets\Scripts\TornilloPlano.cs" />
+    <Compile Include="Assets\Scripts\TornilloRiel.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/imac/UNITY/Proyecto_videojuegos/ProyectoVideoJuego/escena1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
