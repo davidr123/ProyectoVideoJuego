@@ -359,7 +359,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abc595e4eca59472bb2703d5702fc500, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLeft: 10
+  timeLeft: 9
   startText: {fileID: 1433990736}
 --- !u!1 &231783350
 GameObject:
