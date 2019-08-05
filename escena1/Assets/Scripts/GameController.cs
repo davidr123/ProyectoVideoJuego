@@ -30,8 +30,18 @@ public class GameController : MonoBehaviour
     public void CargarSegundoJuego(){ 
           SceneManager.LoadScene("IntroFireworks");
     }
+    public void CargarTercerJuego(){ 
+          //SceneManager.LoadScene("IntroBirthday");
+          SceneManager.LoadScene("Birthday");
+    }
     public void CargarNivelesJuego(){ 
           SceneManager.LoadScene("Niveles");
+    }
+    public void SiPresiona(){ 
+          SceneManager.LoadScene("SiAciertaBirthday");
+    }
+    public void NoPresiona(){ 
+          SceneManager.LoadScene("SiFallaBirthday");
     }
     void EndReached(UnityEngine.Video.VideoPlayer vp)
       {
