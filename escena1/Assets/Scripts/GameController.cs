@@ -31,8 +31,8 @@ public class GameController : MonoBehaviour
           SceneManager.LoadScene("IntroFireworks");
     }
     public void CargarTercerJuego(){ 
-          //SceneManager.LoadScene("IntroBirthday");
-          SceneManager.LoadScene("Birthday");
+          SceneManager.LoadScene("IntroBirthday");
+          //SceneManager.LoadScene("Birthday");
     }
     public void CargarNivelesJuego(){ 
           SceneManager.LoadScene("Niveles");
