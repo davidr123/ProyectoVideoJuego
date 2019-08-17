@@ -43,6 +43,9 @@ public class GameController : MonoBehaviour
     public void NoPresiona(){ 
           SceneManager.LoadScene("SiFallaBirthday");
     }
+    public void SiguienteEscena(){ 
+          SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
+    }
     void EndReached(UnityEngine.Video.VideoPlayer vp)
       {
           UnityEngine.SceneManagement.SceneManager.LoadScene ("JuegoTornillo");

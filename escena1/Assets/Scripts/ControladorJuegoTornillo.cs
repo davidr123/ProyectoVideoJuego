@@ -19,10 +19,11 @@ public class ControladorJuegoTornillo : MonoBehaviour
     {
          if(TornilloEstrella.locked)
         {
-            SceneManager.LoadScene("SiAciertaTornillo");
+            Debug.Log("pieza correcta");
+            //SceneManager.LoadScene("SiAciertaTornillo");
         }
         else{
-            
+            Debug.Log("pieza correcta");
             //SceneManager.LoadScene("SiFallaTornillo");
         }
     }
