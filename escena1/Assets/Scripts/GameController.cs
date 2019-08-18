@@ -31,8 +31,8 @@ public class GameController : MonoBehaviour
           SceneManager.LoadScene("IntroFireworks");
     }
     public void CargarTercerJuego(){ 
-          //SceneManager.LoadScene("IntroBirthday");
-          SceneManager.LoadScene("Birthday");
+          SceneManager.LoadScene("IntroBirthday");
+          //SceneManager.LoadScene("Birthday");
     }
     public void CargarNivelesJuego(){ 
           SceneManager.LoadScene("Niveles");
@@ -42,6 +42,9 @@ public class GameController : MonoBehaviour
     }
     public void NoPresiona(){ 
           SceneManager.LoadScene("SiFallaBirthday");
+    }
+    public void FallaBirthday2(){ 
+          SceneManager.LoadScene("SegundoRetoBirthday");
     }
     public void SiguienteEscena(){ 
           SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);

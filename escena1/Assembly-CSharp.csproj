@@ -62,18 +62,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ClicPlano.cs" />
+    <Compile Include="Assets\Scripts\Colector.cs" />
     <Compile Include="Assets\Scripts\ControladorFireworks.cs" />
-    <Compile Include="Assets\Scripts\ControladorJuegoTornillo.cs" />
+    <Compile Include="Assets\Scripts\ControladorHueco.cs" />
+    <Compile Include="Assets\Scripts\ControladorTiempo.cs" />
+    <Compile Include="Assets\Scripts\ControllerBirthday.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
+    <Compile Include="Assets\Scripts\GeneradorAlimentos.cs" />
     <Compile Include="Assets\Scripts\ObjetoCaja.cs" />
     <Compile Include="Assets\Scripts\ObjetoCajaFalla.cs" />
     <Compile Include="Assets\Scripts\Slot.cs" />
-    <Compile Include="Assets\Scripts\SlotPlano.cs" />
+    <Compile Include="Assets\Scripts\slot2.cs" />
     <Compile Include="Assets\Scripts\StartGame.cs" />
+    <Compile Include="Assets\Scripts\TiempoSegundoretoB.cs" />
     <Compile Include="Assets\Scripts\TimeControl.cs" />
     <Compile Include="Assets\Scripts\TimerLeftScript.cs" />
-    <Compile Include="Assets\Scripts\TornilloEstrella.cs" />
-    <Compile Include="Assets\Scripts\TornilloPlano.cs" />
+    <Compile Include="Assets\Scripts\TocarObjeto.cs" />
+    <Compile Include="Assets\Scripts\TocarObjeto2.cs" />
+    <Compile Include="Assets\Scripts\TocarObjeto3.cs" />
     <Compile Include="Assets\Scripts\TornilloRiel.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/imac/UNITY/Proyecto_videojuegos/ProyectoVideoJuego/escena1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

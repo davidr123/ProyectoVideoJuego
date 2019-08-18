@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Slot
+  - TornilloBueno
+  - TornilloMalo
+  - Peligroso
+  - Peligroso2
+  - Peligroso3
   layers:
   - Default
   - TransparentFX
