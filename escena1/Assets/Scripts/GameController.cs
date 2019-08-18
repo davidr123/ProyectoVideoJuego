@@ -66,6 +66,6 @@ public class GameController : MonoBehaviour
     }
     void EndReached(UnityEngine.Video.VideoPlayer vp)
       {
-          //UnityEngine.SceneManagement.SceneManager.LoadScene ("JuegoTornillo");
+          SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
       }
 }

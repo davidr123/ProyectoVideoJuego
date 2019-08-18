@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
  
 public class TocarObjeto3 : MonoBehaviour {
 
@@ -23,6 +24,7 @@ public class TocarObjeto3 : MonoBehaviour {
             {
                 //Debug.Log("Double Click!");
                 Destroy (GameObject.FindWithTag("Peligroso3"));
+                SceneManager.LoadScene("SiAciertaBirthday2");
             }
             else
             {
