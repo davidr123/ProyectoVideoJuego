@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TiempoSegundoB : MonoBehaviour
+public class TiempoSegundoretoBirthday : MonoBehaviour
 {
 
     public float timeLeft = 10.0f;

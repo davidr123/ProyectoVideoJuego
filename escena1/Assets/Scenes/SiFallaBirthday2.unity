@@ -493,7 +493,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 367850632}
-        m_MethodName: CargarNivelesJuego
+        m_MethodName: CargarNivelesCumple
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

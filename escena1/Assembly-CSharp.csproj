@@ -75,7 +75,7 @@
     <Compile Include="Assets\Scripts\Slot.cs" />
     <Compile Include="Assets\Scripts\slot2.cs" />
     <Compile Include="Assets\Scripts\StartGame.cs" />
-    <Compile Include="Assets\Scripts\TiempoSegundoretoB.cs" />
+    <Compile Include="Assets\Scripts\TiempoSegundoretoBirthday.cs" />
     <Compile Include="Assets\Scripts\TimeControl.cs" />
     <Compile Include="Assets\Scripts\TimerLeftScript.cs" />
     <Compile Include="Assets\Scripts\TocarObjeto.cs" />

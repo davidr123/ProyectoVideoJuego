@@ -46,11 +46,26 @@ public class GameController : MonoBehaviour
     public void FallaBirthday2(){ 
           SceneManager.LoadScene("SegundoRetoBirthday");
     }
+    public void CargarMenuJuegos(){ 
+          SceneManager.LoadScene("MenuJuegos");
+    }
+    public void CargarNivelesmontaña(){ 
+          SceneManager.LoadScene("NivelesMontana");
+    }
+    public void CargarNivelesFuego(){ 
+          SceneManager.LoadScene("NivelesFuego");
+    }
+    public void CargarNivelesCumple(){ 
+          SceneManager.LoadScene("NivelesCumple");
+    }
+    public void CargarSegundoJuegoMontaña(){ 
+          SceneManager.LoadScene("JuegoTornillo2");
+    }
     public void SiguienteEscena(){ 
           SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
     }
     void EndReached(UnityEngine.Video.VideoPlayer vp)
       {
-          UnityEngine.SceneManagement.SceneManager.LoadScene ("JuegoTornillo");
+          //UnityEngine.SceneManagement.SceneManager.LoadScene ("JuegoTornillo");
       }
 }

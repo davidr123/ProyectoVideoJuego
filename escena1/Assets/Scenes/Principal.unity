@@ -526,7 +526,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: NIVELES
+  m_Text: JUEGOS
 --- !u!222 &464014039
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1831,7 +1831,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: JUGAR
+  m_Text: COMENZAR
 --- !u!222 &1242732680
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2224,7 +2224,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1744972800}
-        m_MethodName: CargarNivelesJuego
+        m_MethodName: CargarMenuJuegos
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
