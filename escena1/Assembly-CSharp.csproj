@@ -68,12 +68,12 @@
     <Compile Include="Assets\Scripts\ControladorHueco.cs" />
     <Compile Include="Assets\Scripts\ControladorTiempo.cs" />
     <Compile Include="Assets\Scripts\ControllerBirthday.cs" />
+    <Compile Include="Assets\Scripts\Drag.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\GeneradorAlimentos.cs" />
     <Compile Include="Assets\Scripts\ObjetoCaja.cs" />
     <Compile Include="Assets\Scripts\ObjetoCajaFalla.cs" />
     <Compile Include="Assets\Scripts\Slot.cs" />
-    <Compile Include="Assets\Scripts\slot2.cs" />
     <Compile Include="Assets\Scripts\StartGame.cs" />
     <Compile Include="Assets\Scripts\TiempoSegundoretoBirthday.cs" />
     <Compile Include="Assets\Scripts\TimeControl.cs" />
