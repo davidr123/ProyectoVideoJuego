@@ -58,7 +58,7 @@ public class NamiControlador : MonoBehaviour {
             // SceneManager.GetSceneByName("Juego");
             
             //if (SceneManager.GetSceneByName(bandera.tempNombre).isLoaded)
-            if (SceneManager.GetSceneByName("Juego").isLoaded || SceneManager.GetSceneByName("JuegoTornillo2").isLoaded)
+            if (SceneManager.GetSceneByName("Juego").isLoaded || SceneManager.GetSceneByName("JuegoTornillo2").isLoaded || SceneManager.GetSceneByName("FireWorks").isLoaded)
             {
                 mousepostion = Camera.main.ScreenToWorldPoint(Input.mousePosition);
                 transform.position = new Vector2(mousepostion.x - deltaX, mousepostion.y - deltaY);

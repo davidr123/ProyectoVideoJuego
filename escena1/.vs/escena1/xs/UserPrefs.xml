@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{A862181E-2361-EA91-8E3E-7CB3B936A802}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObjetoCaja.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NamiControlador.cs">
     <Files>
       <File FileName="Assets/Scripts/Rotarcohete.cs" Line="31" Column="60" />
       <File FileName="Assets/Scripts/GameController.cs" Line="81" Column="13" />
       <File FileName="Assets/Scripts/StartGame.cs" Line="23" Column="2" />
       <File FileName="Assets/Scripts/TiempoLimiteFireworks2.cs" Line="20" Column="54" />
       <File FileName="Assets/Scripts/ObjetoCaja.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Colector.cs" Line="52" Column="36" />
+      <File FileName="Assets/Scripts/NamiControlador.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +15,7 @@
           <Node name="escena1" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="ObjetoCaja.cs" selected="True" />
+                <Node name="NamiControlador.cs" selected="True" />
               </Node>
             </Node>
           </Node>

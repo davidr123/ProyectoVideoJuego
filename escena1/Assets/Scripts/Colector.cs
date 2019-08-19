@@ -30,10 +30,24 @@ public class Colector : MonoBehaviour {
                 print("MALO");
                 SceneManager.LoadScene("SiFallaTornillo2");
             }
+
         }
 
-        
-        
+        if (SceneManager.GetSceneByName("FireWorks").isLoaded)
+        {
+            if (target.gameObject.tag == "carameloBueno")
+            {
+                print("BUENO");
+                SceneManager.LoadScene("SiAciertaFireworks");
+            }
+            else
+            {
+                print("MALO");
+                SceneManager.LoadScene("SiFallaFireworks");
+            }
+        }
+
+
 
         Destroy(target.gameObject);
 
