@@ -10,6 +10,10 @@ TagManager:
   - Peligroso
   - Peligroso2
   - Peligroso3
+  - nami
+  - colector
+  - carameloBueno
+  - carameloMalo
   layers:
   - Default
   - TransparentFX

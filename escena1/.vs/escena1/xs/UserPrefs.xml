@@ -1,12 +1,34 @@
 ﻿<Properties StartupConfiguration="{A862181E-2361-EA91-8E3E-7CB3B936A802}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Slot.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObjetoCaja.cs">
     <Files>
-      <File FileName="Assets/Scripts/Slot.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Rotarcohete.cs" Line="31" Column="60" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="81" Column="13" />
+      <File FileName="Assets/Scripts/StartGame.cs" Line="23" Column="2" />
+      <File FileName="Assets/Scripts/TiempoLimiteFireworks2.cs" Line="20" Column="54" />
+      <File FileName="Assets/Scripts/ObjetoCaja.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="escena1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ObjetoCaja.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="escena1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b83d37fe-d351-4c54-9225-d1d6931e476d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

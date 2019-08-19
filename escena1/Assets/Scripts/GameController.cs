@@ -18,6 +18,18 @@ public class GameController : MonoBehaviour
     {
         
     }
+    public void CargarSiFallaFireworks2()
+    {
+        SceneManager.LoadScene("SiFallaFireworks2");
+    }
+    public void CargarSiAciertaFireworks2()
+    {
+        SceneManager.LoadScene("SiAciertaFireworks2");
+    }
+    public void Fireworks2()
+    {
+        SceneManager.LoadScene("Fireworks2");
+    }
     public void CargarJuego(){ 
           SceneManager.LoadScene("Principal");
     }
@@ -66,6 +78,6 @@ public class GameController : MonoBehaviour
     }
     void EndReached(UnityEngine.Video.VideoPlayer vp)
       {
-          SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
+          //SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
       }
 }

@@ -50,7 +50,7 @@ public class Drag : MonoBehaviour {
     {
         //ESCENA JUEGO
         //Para los agujeros
-        if (col.gameObject.tag != "Slot")
+        if (col.gameObject.tag == "Slot")
         {
             if (gameObject.tag == "TornilloBueno")
             {

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/JuegoTornillo.unity
+- path: Assets/Scenes/JuegoTornillo1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
