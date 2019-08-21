@@ -76,6 +76,10 @@ public class GameController : MonoBehaviour
     public void SiguienteEscena(){ 
           SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);
     }
+    public void SalirJuego()
+    {
+        Application.Quit();
+    }
     void EndReached(UnityEngine.Video.VideoPlayer vp)
       {
           //SceneManager.LoadScene (SceneManager.GetActiveScene().buildIndex + 1);

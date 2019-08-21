@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CambioCreditos.cs" />
     <Compile Include="Assets\Scripts\ClicPlano.cs" />
     <Compile Include="Assets\Scripts\Colector.cs" />
     <Compile Include="Assets\Scripts\ControladorCohete.cs" />

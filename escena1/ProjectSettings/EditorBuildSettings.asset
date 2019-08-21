@@ -21,8 +21,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Juego.unity
     guid: 49220c9689a73429db6c6234b118492c
   - enabled: 0
-    path: Assets/Scenes/JuegoTornillo1.unity
-    guid: e4b09bd17894a4ae8b8a7371d7bdac1a
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/JuegoTornillo2.unity
     guid: 4167014f5a8ef4f498c738761a6dc711
@@ -78,11 +78,14 @@ EditorBuildSettings:
     path: Assets/Scenes/NivelesMontana.unity
     guid: 0ebba78e45fc546849f3a05ce332388c
   - enabled: 0
-    path: Assets/Scenes/JuegoTornillo.unity
-    guid: 43a8b8bc7c8d741eea551ca96513a912
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/SiAciertaBirthday2.unity
     guid: 338245546e32749f1b45df0b5bfe4841
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: fd2df12500ff046a386302914baac8f7
   - enabled: 1
     path: Assets/Scenes/SiAciertaTornillo2.unity
     guid: 9761586b884bb45e19b29da9cb045215
